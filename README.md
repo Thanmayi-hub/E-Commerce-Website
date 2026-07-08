@@ -8,11 +8,8 @@ A simple React E-Commerce website created for learning React.
 - Hero Section
 - Product Cards
 - Product Details Table
-- Offers Section
-- Contact Section
 - Footer
 - React Components
-- React Router Navigation
 
 ## Technologies Used
 
